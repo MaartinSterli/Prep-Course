@@ -1,0 +1,41 @@
+            html{
+                background-color: black;
+                background-image: url("https://static.vecteezy.com/system/resources/previews/002/006/728/non_2x/abstract-geometric-texture-dark-background-illustration-vector.jpg")
+            }
+            h1{
+                color: rebeccapurple;
+                text-align: center;
+                border-color: black
+            }
+            h3{
+                color: yellow;
+                margin: 0 auto;
+                text-align: center;
+            }
+            h4{
+                color:rebeccapurple;
+                text-align: center;
+            }
+            img{
+                width: 400px;
+                margin: 0 auto;
+            }
+            #thirdDiv{
+                width: 500px;
+                height: 600px;
+                background-image: url("https://static.vecteezy.com/system/resources/previews/002/006/728/non_2x/abstract-geometric-texture-dark-background-illustration-vector.jpg");
+                padding: 50px;
+                border: 15px ridge rgba(211, 220, 50, .6);
+                margin: 0 auto;
+                text-align: center;
+            }
+            #spanId{
+                font-size: 18px;
+                margin: 700px;
+                color: yellow;
+                text-align: center;
+            }
+            a{
+                text-align: center;
+                margin: 850px;
+            }
